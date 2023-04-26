@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2156b7b6-20a6-4d1e-91a2-2cf9fcb74244" name="Changes" comment="FrontEnd" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O9Nmh9M4efajDvsiZv4vnigpbo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Merging secondB",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/An3/Sem2/PS/BloodAPI/Frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\An3\Sem2\PS\react-blood\src\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2156b7b6-20a6-4d1e-91a2-2cf9fcb74244" name="Changes" comment="" />
+      <created>1680968998997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680968998997</updated>
+      <workItem from="1680969000197" duration="8620000" />
+      <workItem from="1680986615021" duration="228000" />
+      <workItem from="1681364541230" duration="1290000" />
+      <workItem from="1681654321707" duration="8000" />
+      <workItem from="1681654364812" duration="13490000" />
+      <workItem from="1681671102607" duration="209000" />
+      <workItem from="1681677370822" duration="11930000" />
+      <workItem from="1681817469985" duration="6132000" />
+      <workItem from="1681880279755" duration="7361000" />
+      <workItem from="1681911589286" duration="20532000" />
+      <workItem from="1681936470246" duration="269000" />
+      <workItem from="1681967279604" duration="6248000" />
+      <workItem from="1681982804098" duration="1307000" />
+      <workItem from="1682452286968" duration="7815000" />
+      <workItem from="1682488947990" duration="6849000" />
+      <workItem from="1682525288491" duration="2076000" />
+      <workItem from="1682527426940" duration="1541000" />
+      <workItem from="1682530906352" duration="75000" />
+    </task>
+    <task id="LOCAL-00001" summary="FrontEnd">
+      <created>1681983288563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681983288563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FrontEnd" />
+    <option name="LAST_COMMIT_MESSAGE" value="FrontEnd" />
+  </component>
+</project>
