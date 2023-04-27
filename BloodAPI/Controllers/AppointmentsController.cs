@@ -32,6 +32,17 @@ namespace BloodAPI.Controllers
             return await _context.Appointments.ToListAsync();
         }
 
+        // GET: api/Appointments
+        [HttpGet("donationCenter/{donationCenterID}")]
+        public async Task<ActionResult<IEnumerable<Appointment>>> GetAppointmentsByDonationC(int donationCenterID)
+        {
+            if (_context.Appointments == null)
+            {
+                return NotFound();
+            }
+            return await _context.Appointments.Where(a => a.DonationCenterID == donationCenterID).ToListAsync();
+        }
+
         // GET: api/Appointments/userid/{userid}
         [HttpGet("userid/{userID}")]
         public async Task<ActionResult<IEnumerable<Appointment>>> GetAppointmentsByUserID(int userID)

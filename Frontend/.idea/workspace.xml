@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2156b7b6-20a6-4d1e-91a2-2cf9fcb74244" name="Changes" comment="FrontEnd" />
+    <list default="true" id="2156b7b6-20a6-4d1e-91a2-2cf9fcb74244" name="Changes" comment="FrontEnd">
+      <change beforePath="$PROJECT_DIR$/src/pages/AppointmentForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AppointmentForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Appointments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Appointments.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -28,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging secondB",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/An3/Sem2/PS/BloodAPI/Frontend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/An3/Sem2/PS/BloodAPI/Frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\An3\Sem2\PS\react-blood\src\pages" />
@@ -88,8 +91,10 @@
       <workItem from="1682452286968" duration="7815000" />
       <workItem from="1682488947990" duration="6849000" />
       <workItem from="1682525288491" duration="2076000" />
-      <workItem from="1682527426940" duration="1541000" />
-      <workItem from="1682530906352" duration="75000" />
+      <workItem from="1682527426940" duration="2864000" />
+      <workItem from="1682533193636" duration="1755000" />
+      <workItem from="1682536747672" duration="1505000" />
+      <workItem from="1682572242262" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="FrontEnd">
       <created>1681983288563</created>
@@ -98,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681983288563</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FrontEnd">
+      <created>1682530176097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682530176097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FrontEnd">
+      <created>1682534844784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682534844784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
